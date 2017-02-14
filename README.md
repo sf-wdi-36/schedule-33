@@ -1,9 +1,9 @@
-![logo](https://cloud.githubusercontent.com/assets/4304660/19456424/3b4262e6-9476-11e6-801f-b810718da875.jpg)  
-#General Assembly Cohort 33  
+![logo](https://cloud.githubusercontent.com/assets/4304660/22954405/229b72c4-f2cb-11e6-81e6-a8102d9ba2a4.jpg)  
+#General Assembly Cohort 36  
 
-[Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+[Class Culture, Policies, & Procedures](https://github.com/sf-wdi-36/schedule-36/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
-
+<!--
 #### Week 13 - Project 3
 <table><thead>
 <tr>
@@ -640,7 +640,7 @@
 [2-5C]: https://github.com/sf-wdi-33/project-00
 [2-5D]: https://github.com/sf-wdi-33/project-00
 [2-5E]: https://github.com/sf-wdi-33/project-00
-
+-->
 #### Week 1 - Fundamentals
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
@@ -698,7 +698,7 @@ Justin Castilla - justin.castilla@generalassemb.ly - [Justin's Github](https://g
   
   
 **Slack**  
-Mercedes: @mercedes  
+Ali: @alipisano1  
 Jean: @jean  
 Justin: @justincastilla   
 
