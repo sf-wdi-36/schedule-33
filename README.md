@@ -680,14 +680,14 @@
 <td><a href="https://github.com/sf-wdi-36/html&css">HTML / CSS</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-data-types">JS Data Types</a></td>
 <td><a href="https://github.com/sf-wdi-36/functions">Functions</a></td>
-<td><a href="https://github.com/sf-wdi-36/dom-events"></td>
+<td><a href="https://github.com/sf-wdi-36/dom-events"></a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?</a></td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">My Personal Site</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Control flow</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">DOM manipulation</td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">DOM manipulation(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Bootstrap(Justin)</a></td>
 </tr>
 <tr>
@@ -697,15 +697,15 @@
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">My Personal Site</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Chrome Dev Tools(Justin)</a></td>
 <td>Outcomes</td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">TicTacToe</td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">TicTacToe</a></td>
 </tr>
 <tr>
-<td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">CRUD && The Query</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-4">Personal API</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Personal API</a></td>
+<td><strong>HW / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Command line mystery</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">My Personal Site</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Control Flow training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-4">Functions training/DOM training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">TicTacToe</a></td>
 </tr>
 </tbody></table>
 
