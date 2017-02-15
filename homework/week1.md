@@ -1,7 +1,7 @@
 # Week 1 Homework
 
 ##Day 1
-- [Command line mystery](https://github.com/sf-wdi-36/cl-mystery) 
+- [Command line mystery](https://github.com/sf-wdi-36/command-line-mystery) 
 
 ##Day 2
 - [Personal Site](https://github.com/sf-wdi-36/personal-portfolio)
