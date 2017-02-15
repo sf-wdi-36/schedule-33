@@ -687,7 +687,7 @@
 <td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site(Jean Intro)</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-control-flow">Control flow(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/personal-portfolio">DOM manipulation(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-36/dom-manipulation">DOM manipulation(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-36/bootstrap">Bootstrap(Justin)</a></td>
 </tr>
 <tr>
