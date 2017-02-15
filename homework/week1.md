@@ -11,7 +11,6 @@
 
 ##Day 4
 - [Training: Functions](https://github.com/sf-wdi-36/functions-exercises)
-- [Training: DOM events](https://github.com/sf-wdi-36/jquery-dom-lab)
 
 ##Day 5
 - [Tic tac toe](https://github.com/sf-wdi-36/tic-tac-toe)
