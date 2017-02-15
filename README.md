@@ -676,7 +676,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/icebreakers">Ice Breakers</a></td>
+<td>Ice Breakers</td>
 <td><a href="https://github.com/sf-wdi-36/html-css-review">HTML / CSS</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-data-types">JS Data Types</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-functions">Functions</a></td>
