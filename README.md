@@ -671,33 +671,33 @@
 <td>Orientation</td>
 <td><a href="https://github.com/sf-wdi-36/kyrel">Kyrel</a></td>
 <td><a href="https://github.com/sf-wdi-36/kyrel">Kyrel</a></td>
-<td><a href="https://github.com/sf-wdi-36/functions">Functions</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-functions">Functions</a></td>
 <td>Personal site show && tell</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-36/icebreakers">Ice Breakers</a></td>
-<td><a href="https://github.com/sf-wdi-36/html&css">HTML / CSS</a></td>
+<td><a href="https://github.com/sf-wdi-36/html-css-review">HTML / CSS</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-data-types">JS Data Types</a></td>
-<td><a href="https://github.com/sf-wdi-36/functions">Functions</a></td>
-<td><a href="https://github.com/sf-wdi-36/dom-events"></a></td>
+<td><a href="https://github.com/sf-wdi-36/js-functions">Functions</a></td>
+<td><a href="https://github.com/sf-wdi-36/dom-events-jquery"></a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Control flow</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">DOM manipulation(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Bootstrap(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-control-flow">Control flow</a></td>
+<td><a href="https://github.com/sf-wdi-36/personal-portfolio">DOM manipulation(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-36/bootstrap">Bootstrap(Justin)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/express-dynamic-routes">Github workflow
+<td><a href="https://github.com/sf-wdi-36/git-github">Github workflow
 (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Chrome Dev Tools(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site</a></td>
+<td><a href="https://github.com/sf-wdi-36/dev-tools">Chrome Dev Tools(Justin)</a></td>
 <td>Outcomes</td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">TicTacToe</a></td>
+<td><a href="https://github.com/sf-wdi-36/tic-tac-toe">TicTacToe</a></td>
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
