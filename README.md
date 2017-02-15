@@ -671,22 +671,22 @@
 <td>Orientation</td>
 <td><a href="https://github.com/sf-wdi-36/kyrel">Kyrel</a></td>
 <td><a href="https://github.com/sf-wdi-36/kyrel">Kyrel</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-functions">Functions</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-functions">Functions(Jean)</a></td>
 <td>Personal site show && tell</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>Ice Breakers</td>
-<td><a href="https://github.com/sf-wdi-36/html-css-review">HTML / CSS</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-data-types">JS Data Types</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-functions">Functions</a></td>
-<td><a href="https://github.com/sf-wdi-36/dom-events-jquery"></a></td>
+<td><a href="https://github.com/sf-wdi-36/html-css-review">HTML / CSS(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-data-types">JS Data Types(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-functions">Functions(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-36/dom-events-jquery">DOM Events && JQuery (Justin)</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?</a></td>
-<td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-control-flow">Control flow</a></td>
+<td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site(Jean Intro)</a></td>
+<td><a href="https://github.com/sf-wdi-36/js-control-flow">Control flow(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/personal-portfolio">DOM manipulation(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-36/bootstrap">Bootstrap(Justin)</a></td>
 </tr>
