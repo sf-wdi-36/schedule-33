@@ -4,9 +4,9 @@
 ### Jean's Group
 Time  | Monday | Tuesday | Wednesday | Thursday | Friday    |
 ----  | ------ | ------- | --------- | -------- | --------- |
-4:15pm  |   Kashif     | Jesse  |  Chelsea         | Ashley    | Ali 
+4:15pm  |   Kashif     | Jesse  |  Chelsea         | Ashley    | Roman
 4:30pm  |   Carl  | Chris  |    Shava       | - | Gamelia
-4:45pm  |  Gabriela  | Megan  |     Archy      | - | Roman
+4:45pm  |  Gabriela  | Megan  |     Archy      | - | Ali
 
 
 ### Justin's Group
