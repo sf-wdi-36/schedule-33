@@ -5,7 +5,7 @@
 Time  | Monday | Tuesday | Wednesday | Thursday | Friday    |
 ----  | ------ | ------- | --------- | -------- | --------- |
 4:15pm  |   Kashif     | Jesse  |  Chelsea         | Ashley    | Roman
-4:30pm  |   Carl  | Chris  |    Shava       | - | Gamelia
+4:30pm  |   Carl  | Chris  |    Shava       | - | Lamar
 4:45pm  |  Gabriela  | Megan  |     Archy      | - | Ali
 
 
@@ -13,5 +13,5 @@ Time  | Monday | Tuesday | Wednesday | Thursday | Friday    |
 Time  | Monday | Tuesday | Wednesday | Thursday | Friday    |
 ----  | ------ | ------- | --------- | -------- | --------- |
 4:15pm  |   Jesse     | Kashif    |  Ali         | Archy    | Chelsea
-4:30pm  |   Ashley  | Carl  |    Gamelia      | - | Shava
+4:30pm  |   Ashley  | Carl  |    Lamar      | - | Shava
 4:45pm  |  Megan  | Gabriela  |     Roman     | - | Chris
