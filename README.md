@@ -684,7 +684,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/server?client?whaaaa?">Servers? Clients? Whaaaa?(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/client-server-and-you">Servers? Clients? Whaaaa?(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site(Jean Intro)</a></td>
 <td><a href="https://github.com/sf-wdi-36/js-control-flow">Control flow(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/dom-manipulation">DOM manipulation(Jean)</a></td>
