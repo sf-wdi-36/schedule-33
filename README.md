@@ -695,7 +695,7 @@
 <td><a href="https://github.com/sf-wdi-36/git-github">Github workflow
 (Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-36/personal-portfolio">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/dev-tools">Chrome Dev Tools(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/dev-tools">Chrome Dev Tools(Jean)</a></td>
 <td>Outcomes</td>
 <td><a href="https://github.com/sf-wdi-36/tic-tac-toe">TicTacToe</a></td>
 </tr>
