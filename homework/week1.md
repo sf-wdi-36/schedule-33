@@ -12,6 +12,7 @@
 ##Day 4
 - [Training: Functions](https://github.com/sf-wdi-36/functions-exercises)
 - [Training: Laundry Lab](https://github.com/sf-wdi-36/laundry-lab)
+- [Bonus: JQuery Events Lab](https://github.com/SF-WDI-LABS/jquery-events-lab) (no deliverables needed for this)
 
 ##Day 5
 - [Tic tac toe](https://github.com/sf-wdi-36/tic-tac-toe)
