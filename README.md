@@ -766,13 +766,13 @@
 
 #### Daily Schedule Overview
 
-Time | Monday, Tuesday, Thursday  | Wednesday | Friday
+Time | Monday, Tuesday, Wednesday  | Thursday | Friday
 ----- | ------------------ | ----- | ----
 9:17 - 10:20  | Module 1   | Module 1     | Module 1
 10:30 - 12:30| Module 2   | Module 2     | Module 2
 12:30 - 1:30 | Lunch         | Lunch          | Lunch
 1:30 - 2:50 | Module 3      | Outcomes   | Module 3
-3:00 - 4:30 | Module 4      | IA Review    | Begin Weekend Lab
+3:00 - 4:30 | Module 4      | Module 3   | Begin Weekend Lab
 4:30 - 5:00 | Office Hours   | Office Hours | Rest
 
 **Instructors**  
