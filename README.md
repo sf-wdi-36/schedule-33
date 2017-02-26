@@ -701,11 +701,11 @@
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Command line mystery</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Control Flow training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4">Functions training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">TicTacToe</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Objects training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">Spotify Lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Geoquakes</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4"></a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">Project 0</a></td>
 </tr>
 </tbody></table>
 
@@ -755,11 +755,11 @@
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-1">Objects training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-2">Spotify Lab</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-3">Geoquakes</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-4"></a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-5">Project 0</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-1">Command line mystery</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-2">My Personal Site</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-3">Control Flow training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-4">Functions training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-5">TicTacToe</a></td>
 </tr>
 </tbody></table>
 
