@@ -773,7 +773,7 @@ Time | Monday, Tuesday, Wednesday  | Thursday | Friday
 12:30 - 1:30 | Lunch         | Lunch          | Lunch
 1:30 - 2:50 | Module 3      | Module 3   | Module 3
 3:00 - 4:30 | Module 4      | Outcomes  | Begin Weekend Lab
-4:30 - 5:00 | Office Hours   | Office Hours | Rest
+4:30 - 5:00 | Office Hours   | - | Rest
 
 **Instructors**  
 Jean Weatherwax - jean.weatherwax@generalassemb.ly - [Jean's Github](https://github.com/jeanmw)  
