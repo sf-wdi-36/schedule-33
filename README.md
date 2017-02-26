@@ -655,7 +655,61 @@
 </tbody></table>
 -->
 
-#### Week 1 - Express, Routing and Mongo
+
+#### Week 2 - More JS and the DOM
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (Justin)</a></td>
+<td>Algorithm(Jean)</td>
+<td>Algorithm(Jean)</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 1(Jean)</a></td>
+<td>Algorithm(Justin)</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms (Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 2(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td>Outcomes</td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+</tr>
+<tr>
+<td><strong>HW / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Command line mystery</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">My Personal Site</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Control Flow training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4">Functions training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">TicTacToe</a></td>
+</tr>
+</tbody></table>
+
+#### Week 1 - Fundamentals Review
 <table><thead>
 <tr>
 <th>Time</th>
@@ -701,11 +755,11 @@
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-1">Command line mystery</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-2">My Personal Site</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-3">Control Flow training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-4">Functions training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-5">TicTacToe</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-1">Objects training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-2">Spotify Lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-3">Geoquakes</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-4"></a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week1.md#day-5">Project 0</a></td>
 </tr>
 </tbody></table>
 
