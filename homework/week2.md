@@ -13,4 +13,4 @@
 ##Day 4
 
 ##Day 5
-- [Project 0](https://github.com/SF-WDI-LABS/project-00) - finish Project 0!
+- [Project 0](https://github.com/sf-wdi-36/project-00) - finish Project 0!
