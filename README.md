@@ -670,7 +670,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (Justin)</a></td>
-<td>Algorithm(Jean)</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes"></a>Algorithm (Jean)</td>
 <td>Algorithm(Jean)</td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 1(Jean)</a></td>
 <td>Algorithm(Justin)</td>
