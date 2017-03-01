@@ -562,85 +562,32 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td>Show and Tell of Project 0 (Games)</td>
-<td><a href="https://github.com/sf-wdi-36/software-development-best-practices">Software best practices (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-intro-mongoDB">Mongoose & MongoDB (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td>Veteran's Day (OFF)</td>
+<td><a href="https://github.com/sf-wdi-labs/software-development-best-practices">Software best practices (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (Jean)</a></td>
+<td>Linked Lists(Justin)</td>
+<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/js-intro-express">Express Library (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-associations">Mongoose Associations (JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td>Veteran's Day (OFF)</td>
+<td><a href="https://github.com/sf-wdi-labs/js-intro-express">Express Library Intro(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
+<td><a href="https://github.com/sf-wdi-labs/mongoose-associations">Mongoose Associations(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
-<td>Elections (Early Dismissal)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
-<td>Veteran's Day (OFF)</td>
+<td>Github Collaboration/Project 1 Intro</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
-<td>Elections (Early Dismissal)</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Survey && Book App</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API</a></td>
-<td>Veteran's Day (OFF)</td>
-</tr>
-<tr>
-<td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">CRUD && The Query</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-4">Personal API</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Personal API</a></td>
-</tr>
-</tbody></table>
-
-#### Week 2 - Express, Routing and Mongo
-<table><thead>
-<tr>
-<th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
-</tr>
-</thead><tbody>
-<tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>Show and Tell of Project 0 (Games)</td>
-<td><a href="https://github.com/sf-wdi-36/software-development-best-practices">Software best practices (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-intro-mongoDB">Mongoose & MongoDB (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td>Veteran's Day (OFF)</td>
-</tr>
-<tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/js-intro-express">Express Library (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-associations">Mongoose Associations (JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td>Veteran's Day (OFF)</td>
-</tr>
-<tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
-<td>Elections (Early Dismissal)</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
-<td>Veteran's Day (OFF)</td>
-</tr>
-<tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
-<td>Elections (Early Dismissal)</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Survey && Book App</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API</a></td>
 <td>Veteran's Day (OFF)</td>
 </tr>
