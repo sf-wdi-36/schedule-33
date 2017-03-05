@@ -547,7 +547,7 @@
 </tr>
 </tbody></table>
 
-
+-->
 #### Week 3 - Express, Routing and Mongo
 <table><thead>
 <tr>
@@ -600,8 +600,6 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Personal API</a></td>
 </tr>
 </tbody></table>
-
--->
 
 
 #### Week 2 - More JS and the DOM
