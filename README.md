@@ -579,7 +579,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
-<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro</a></td>
 </tr>
@@ -588,7 +588,7 @@
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API</a></td>
+<td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-labs/project-01">Project 1 Intro</a></td>
 </tr>
 <tr>
