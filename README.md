@@ -564,7 +564,7 @@
 <td>Show and Tell of Project 0 (Games)</td>
 <td><a href="https://github.com/sf-wdi-labs/software-development-best-practices">Software best practices (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (Jean)</a></td>
-<td>Linked Lists(Justin)</td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(Jean)</a></td>
 </tr>
 <tr>
@@ -595,9 +595,8 @@
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-4">Personal API</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Personal API</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Project 1</a></td>
 </tr>
 </tbody></table>
 
