@@ -11,6 +11,12 @@
 
 ##Day 3
 
+- Finish [Personal API](https://github.com/sf-wdi-labs/express-personal-api)
+
 ##Day 4
 
+- Tunely
+
 ##Day 5
+
+- Project 1
