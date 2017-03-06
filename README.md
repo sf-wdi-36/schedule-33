@@ -581,7 +581,7 @@
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(Jean)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
