@@ -11,7 +11,7 @@
 
 ##Day 3
 
-- Finish [Personal API](https://github.com/sf-wdi-labs/express-personal-api)
+- Finish Book App
 
 ##Day 4
 
