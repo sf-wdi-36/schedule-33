@@ -596,7 +596,7 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Personal API && Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Project 1</a></td>
 </tr>
 </tbody></table>
