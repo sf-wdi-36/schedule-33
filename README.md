@@ -581,7 +581,7 @@
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(both)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -589,7 +589,7 @@
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-labs/project-01">Project 1 Intro</a></td>
+<td><a href="https://github.com/sf-wdi-labs/project-01">Project 1 Intro(both)</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
