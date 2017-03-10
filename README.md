@@ -494,7 +494,7 @@
 
 
 
-#### Week 4 - Tunely/Project 1
+#### Week 4 - Project 1
 <table><thead>
 <tr>
 <th>Time</th>
@@ -507,47 +507,47 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-linked-list/blob/master/README.md">LinkedLists</a>(Justin)</td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
-<td><a href="https://github.com/sf-wdi-36/bubble-sort">Bubble Sort</a>(Justin)</td>
-<td><a href="https://github.com/sf-wdi-36/binary-search/blob/master/README.md">Binary Search(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/algorithm-complexity-and-big-o">Big-O(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs">Simple-Auth</a></td>
+<td><a href="https://github.com/sf-wdi-labs/bubble-sort">BubbleSort(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search(Jean)</a></td>
+<td>LinkedLists(Justin)</td>
+<td>Project 1 Presentations</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely Intro</a></td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely wrap-up</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td>Project 1 Presentations</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
-<td>GitHub Collaboration/Project 1 Intro</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/express-simple-auth">Authorization</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td>Project 1 Presentations</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
-<td>Project 1 approvals</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td>Outcomes</td>
+<td>Project 1 Reflection/Feedback</td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td>sleep</td>
 </tr>
 </tbody></table>
-
 -->
+
 #### Week 3 - Express, Routing and Mongo
 <table><thead>
 <tr>
