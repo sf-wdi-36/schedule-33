@@ -507,7 +507,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-labs">Simple-Auth</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/express-simple-auth">Simple-Auth</a></td>
 <td><a href="https://github.com/sf-wdi-labs/bubble-sort">BubbleSort(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search(Jean)</a></td>
 <td>LinkedLists(Justin)</td>
