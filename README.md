@@ -508,9 +508,9 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(both)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/bubble-sort">BubbleSort(Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search(Jean)</a></td>
-<td>LinkedLists(Justin)</td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td>Project 1 Presentations</td>
 </tr>
 <tr>
