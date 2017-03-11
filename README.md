@@ -492,7 +492,7 @@
 </tr>
 </tbody></table>
 
-
+-->
 
 #### Week 4 - Project 1
 <table><thead>
@@ -507,7 +507,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/express-simple-auth">Simple-Auth</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(both)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/bubble-sort">BubbleSort(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search(Jean)</a></td>
 <td>LinkedLists(Justin)</td>
@@ -515,7 +515,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/express-simple-auth">Simple-Auth</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
@@ -546,7 +546,7 @@
 <td>sleep</td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 3 - Express, Routing and Mongo
 <table><thead>
@@ -581,7 +581,7 @@
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration && Project 1 Intro(both)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
