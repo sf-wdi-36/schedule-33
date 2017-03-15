@@ -1,6 +1,6 @@
 ![logo](https://cloud.githubusercontent.com/assets/4304660/22954405/229b72c4-f2cb-11e6-81e6-a8102d9ba2a4.jpg)  
 
-#General Assembly Cohort 36  
+# General Assembly Cohort 36  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-36/schedule-36/blob/master/how-tos/WDI%2036%20orientation.pdf)
 
