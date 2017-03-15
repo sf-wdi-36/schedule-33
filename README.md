@@ -387,7 +387,7 @@
 
 #### [Angular Style Guide](https://github.com/sf-wdi-36/angular_style_guide)
 
-#### Week 6 - Angular
+#### Week 5 - Angular
 <table><thead>
 <tr>
 <th>Time</th>
@@ -432,11 +432,11 @@
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
 </tr>
 </tbody></table>
 
