@@ -440,58 +440,6 @@
 </tbody></table>
 
 
-#### Week 5 - Project 1 & Turkeys
-<table><thead>
-<tr>
-<th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
-</tr>
-</thead><tbody>
-<tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36/mergesort">MergeSort</a></td>
-<td>Project 1 Presentations</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-</tr>
-<tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/project-01">Project 1</a></td>
-<td>Project 1 Presentations</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-</tr>
-<tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/project-01">Project 1/issues from other groups</a></td>
-<td>Project 1 Presentations</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-</tr>
-<tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td>Project 1</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-</tr>
-<tr>
-<td><strong>Training / Office Hours</strong></td>
-<td>Project 1</a></td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-</tr>
-</tbody></table>
-
 -->
 
 #### Week 4 - Project 1
