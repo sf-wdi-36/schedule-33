@@ -3,6 +3,7 @@
 
 ## Day 1
 
+- [Intro Exercises](https://github.com/SF-WDI-LABS/intro_angular_challenges/blob/master/README.md)
 - [hAngular](https://github.com/SF-WDI-LABS/angular-hangman-lab)
 
 ## Day 2
