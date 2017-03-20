@@ -424,7 +424,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/angular_hangman_lab">HAngular(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-hangman-lab">HAngular(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely-angular">$http update and delete with Tunely</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/color-me-angular">Color Me Angular :rainbow: (Jean)</a></td>
 <td>Outcomes (Neda)</td>
