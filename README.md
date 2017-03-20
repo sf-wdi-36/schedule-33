@@ -384,7 +384,7 @@
 </tr>
 </tbody></table>
 
-
+-->
 #### [Angular Style Guide](https://github.com/sf-wdi-36/angular_style_guide)
 
 #### Week 5 - Angular
@@ -439,8 +439,6 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week5.md">Homework</a></td>
 </tr>
 </tbody></table>
-
--->
 
 
 #### Week 4 - Project 1
