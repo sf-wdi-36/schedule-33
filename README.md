@@ -385,7 +385,7 @@
 </tbody></table>
 
 -->
-#### [Angular Style Guide](https://github.com/sf-wdi-36/angular_style_guide)
+#### [Angular Style Guide](https://github.com/sf-wdi-labs/angular_style_guide)
 
 #### Week 5 - Angular
 <table><thead>
@@ -400,11 +400,11 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36">LinkedLists(Justin)</a></td>
+<td>LinkedLists(Justin)</td>
 <td><a href="https://github.com/sf-wdi-labs/ng-read-create">$http create and read(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36">Bubble(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36">Binary Search(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36">Big-Oh(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/bubble-sort">Bubble(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/binary-search">Binary Search(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/blob/master/big-o/README.md">Big-Oh(Justin)</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
