@@ -409,23 +409,23 @@
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/intro-angular">Angular intro(Jean)</a</td>
-<td><a href="https://github.com/sf-wdi-36/tunely-angular">$http create and read with Tunely</a></td>
-<td><a href="https://github.com/sf-wdi-labs/angular-ngRoute">Client side routing(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/angular-books-crud-lab">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-labs/angular-custom-directives">Custom Directives(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/tunely-angular">$http create and read with Tunely</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-ngRoute">Client side routing(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-books-crud-lab">Book App</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-custom-directives">Custom Directives(Jean)</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/angular_directives_lab">Native Directives(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ng-update-delete">$http update and delete(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/tunely-angular">Client-side routing with Tunely(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/angular-books-crud-lab">Book App</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/tunely-angular">Client-side routing with Tunely(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-books-crud-lab">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-labs/angular-custom-directives">Custom Directives(Jean)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/angular-hangman-lab">HAngular(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/tunely-angular">$http update and delete with Tunely</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/tunely-angular">$http update and delete with Tunely</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/color-me-angular">Color Me Angular :rainbow: (Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td>Review/Algos</td>
