@@ -385,6 +385,59 @@
 </tbody></table>
 
 -->
+#### Week 6 - React
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/es6">ES6(Justin)</a></td>
+<td>TODO lab</td>
+<td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
+<td>D3 talk(Justin)</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro pt 1 (Jean)</a</td>
+<td>TODO lab</td>
+<td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
+<td>Review/ Wayfarer intro</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro pt. 2(Jean)</a></td>
+<td>TODO lab</td>
+<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer </a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/atm-react">ATM lab(Justin)</a></td>
+<td>TODO lab</td>
+<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer </a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Simple Blog lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">TODO lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Finish Giphy lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">MERN CRUD lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Wayfarer</a></td>
+</tr>
+</tbody></table>
+-->
 #### [Angular Style Guide](https://github.com/sf-wdi-labs/angular_style_guide)
 
 #### Week 5 - Angular
