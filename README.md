@@ -416,7 +416,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro pt. 2(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
