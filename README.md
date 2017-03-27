@@ -437,7 +437,8 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Wayfarer</a></td>
 </tr>
 </tbody></table>
--->
+
+
 #### [Angular Style Guide](https://github.com/sf-wdi-labs/angular_style_guide)
 
 #### Week 5 - Angular
