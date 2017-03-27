@@ -401,7 +401,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/es6">ES6(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD(both)</a></td>
 <td>D3 talk(Justin)</td>
 </tr>
 <tr>
@@ -410,7 +410,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
-<td>Review/ Wayfarer intro</td>
+<td>Review/ Wayfarer intro(both)</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -418,7 +418,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer </a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -426,7 +426,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer </a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
