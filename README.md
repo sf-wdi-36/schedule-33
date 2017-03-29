@@ -400,7 +400,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/es6">ES6(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/mergesort">MergeSort</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD(both)</a></td>
 <td>D3 talk(Justin)</td>
 </tr>
@@ -408,7 +408,7 @@
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro pt 1 (Jean)</a</td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/mergesort">MergeSort</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
 <td>Review/ Wayfarer intro(both)</td>
 </tr>
