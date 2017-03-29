@@ -416,7 +416,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro pt. 2(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React OMDB lab(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
@@ -424,7 +424,7 @@
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/atm-react">ATM lab(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React Giphy lab</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/react-omdb">React OMDB lab</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
@@ -432,7 +432,7 @@
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Simple Blog lab</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">TODO lab</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Finish Giphy lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Finish OMDB lab and React Lifecycle reading</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">MERN CRUD lab</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Wayfarer</a></td>
 </tr>
