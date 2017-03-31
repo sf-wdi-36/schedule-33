@@ -12,7 +12,7 @@
 
 
 ## Day 4
--Wayfarer
+- Wayfarer
 
 
 ## Day 5
