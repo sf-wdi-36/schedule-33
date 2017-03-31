@@ -235,7 +235,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-36/secret-keys">Secret Keys</a></td>
 <td><a href="https://github.com/sf-wdi-36/ruby-algorithms-drills/tree/master/radix-sort">Ruby Algorithm Surprise</a></td>
-<td>White Elephant Gift X-Change :elephant:</td> 
+<td>White Elephant Gift X-Change :elephant:</td>
 <td>Holiday</td>
 <td>Holiday</td>
 </tr>
@@ -441,7 +441,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
 </tr>
 </tbody></table>
 
@@ -499,10 +499,6 @@
 </tr>
 </tbody></table>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 3c62e102985d16424faaf4ca079352317c2f61e9
 #### [Angular Style Guide](https://github.com/sf-wdi-labs/angular_style_guide)
 
 #### Week 5 - Angular
@@ -789,10 +785,9 @@ Time | Monday, Tuesday, Wednesday  | Thursday | Friday
 **Instructors**  
 Jean Weatherwax - jean.weatherwax@generalassemb.ly - [Jean's Github](https://github.com/jeanmw)  
 Justin Castilla - justin.castilla@generalassemb.ly - [Justin's Github](https://github.com/justincastilla)
-  
-  
+
+
 **Slack**  
 Ali: @alipisano1  
 Jean: @jean  
 Justin: @justincastilla   
-
