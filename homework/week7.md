@@ -1,23 +1,23 @@
 
 # Week 7 Homework
 
-##Day 1
-- [Ruby Koans)](https://github.com/sf-wdi-33/ruby-koans)
+## Day 1
+- Wayfarer
 
-##Day 2
-- [Ruby Koans leftovers](https://github.com/sf-wdi-33/ruby-koans)
+## Day 2
+- Wayfarer
 
-##Day 3
-
-- [finish OOP lab](https://github.com/sf-wdi-33/ruby-oop-lab)
-
-
-##Day 4
+## Day 3
+- Wayfarer
 
 
-##Day 5
+## Day 4
+-Wayfarer
 
-- [Roman Numeral Ruby](https://github.com/sf-wdi-33/tdd-roman-numerals)
+
+## Day 5
+
+- [Ruby primer]()
 
 
 
