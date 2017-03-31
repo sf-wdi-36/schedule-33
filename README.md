@@ -418,7 +418,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-omdb">React OMDB lab(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -426,7 +426,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/react-omdb">React OMDB lab</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(both)</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-wayfarer">Wayfarer(both)</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
