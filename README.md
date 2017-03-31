@@ -385,8 +385,9 @@
 </tbody></table>
 
 -->
-#### Week 6 - Wayfarer
+#### Week 7 - Wayfarer
 <table><thead>
+
 <tr>
 <th>Time</th>
 <th>Day 1</th>
@@ -395,15 +396,18 @@
 <th>Day 4</th>
 <th>Day  5</th>
 </tr>
-</thead><tbody>
+</thead>
+
+<tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/es6">ES6(Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">TODO lab</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/react-continued">React Paradigms/Principles(Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD(both)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/stacks-and-queues">Stacks && Queues algos</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-binary-search-tree">Binary Search Tree</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-dictionary-trie">Dictionary Tree</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/max-contig-subarray">Max Contig Subarray</a></td>
 <td>Wayfarer Presentations</td>
 </tr>
+
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
@@ -412,6 +416,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
 <td>Wayfarer Presentations</td>
 </tr>
+
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
@@ -420,6 +425,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
 <td>Wayfarer Presentations</td>
 </tr>
+
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
@@ -428,6 +434,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer(no outcomes)</a></td>
 <td>Wayfarer Presentations</td>
 </tr>
+
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Wayfarer</a></td>
