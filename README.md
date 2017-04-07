@@ -343,48 +343,48 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36/intro-ruby">Ruby Intro(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-koans">Ruby Koans(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-oop">Ruby OOP(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rspec">RSpec(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-algorithms-drills/tree/master/binary-search">Ruby Review/Binary Search</a> </td>
+<td><a href="https://github.com/sf-wdi-labs/intro-ruby">Ruby Intro(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rubyMerge">Ruby Algo(Jean)</a></td>
+<td>Ruby Algo(Justin)</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/idiomatic-ruby">Idiomatic Ruby (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-koans">Ruby Koans(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-oop">Ruby OOP/cars</a></td>
-<td>RSpec</td>
-<td><a href="https://github.com/sf-wdi-36/ruby-regular-expressions">Regular Expressions</a> &
-<a href="https://github.com/sf-wdi-36/username_generator">Username Generator</a></td>
+<td><a href="https://github.com/sf-wdi-labs/idiomatic-ruby">Idiomatic Ruby (Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-36/ruby-koans">Ruby Koans</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Justin</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/go-fish-card-game">Go Fish(both)</a></td>
-<td><a href="https://github.com/sf-wdi-36/wheel_of_fortune">Wheel of Fortune(both)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-koans">Training: Ruby Koans</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Method Drills(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-oop-lab">Ruby OOP</a></td>
-<td><a href="https://github.com/sf-wdi-36/go-fish-card-game">Go Fish cont'd</a></td>
-<td><a href="https://github.com/sf-wdi-36/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby-koans">Training: Ruby Koans</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/car-racing-lab">Ruby OOP cars</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
+<td><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week7.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
 </tr>
 </tbody></table>
 
 -->
+
 #### Week 7 - Wayfarer
 <table><thead>
 
