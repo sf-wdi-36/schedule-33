@@ -287,37 +287,37 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
+<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/cookies-sessions">Cookies and Sessions</a></td>
-<td><a href="https://github.com/sf-wdi-36/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/cookies-sessions">Cookies and Sessions</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails-migrations-and-associations">Migrations(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
+<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-migrations-and-associations">Migrations(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/cookie-monster-app">Cookie Monster Lab</a></td>
-<td><a href="https://github.com/sf-wdi-36/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a></td>
+<td><a href="https://github.com/sf-wdi-labs/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/hacktive_record">HAcktive Record(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails-associations">Associations(Jean)</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-36/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-associations">Associations(Jean)</a></td>
+<td></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-auth">Rails Authentication</a></td>
+<td><a href="https://github.com/sf-wdi-labs/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-36/hacktive_record">HAcktive Record(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rock-n-rails">Rock n' Rails</a></td>
-<td><a href="https://github.com/sf-wdi-36/pet-lab">Rails Pet Lab(Andrew)</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails_bog_app">Bog App</a></td>
+<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rock-n-rails">Rock n' Rails</a></td>
+<td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Andrew)</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-labs/rails_bog_app">Bog App</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
