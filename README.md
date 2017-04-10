@@ -359,7 +359,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-koans">Ruby Koans</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/ruby-koans">Ruby Koans</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
@@ -367,7 +367,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/ruby-koans">Training: Ruby Koans</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/ruby-koans">Training: Ruby Koans</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/car-racing-lab">Ruby OOP cars</a></td>
 <td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
