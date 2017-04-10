@@ -330,7 +330,7 @@
 </tbody></table>
 -->
 
-#### Week 8 - Ruby
+#### Week 8 - Ruby 
 <table><thead>
 <tr>
 <th>Time</th>
@@ -355,7 +355,7 @@
 <td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -363,14 +363,14 @@
 <td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-koans">Training: Ruby Koans</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/car-racing-lab">Ruby OOP cars</a></td>
-<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish</a></td>
+<td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
 <td><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
 </tr>
 <tr>
