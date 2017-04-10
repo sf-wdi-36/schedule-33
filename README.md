@@ -328,9 +328,9 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
 </tr>
 </tbody></table>
+-->
 
-
-#### Week 7 - Ruby
+#### Week 8 - Ruby
 <table><thead>
 <tr>
 <th>Time</th>
@@ -383,7 +383,6 @@
 </tr>
 </tbody></table>
 
--->
 
 #### Week 7 - Wayfarer
 <table><thead>
