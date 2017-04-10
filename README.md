@@ -344,7 +344,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/intro-ruby">Ruby Intro(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/rubyMerge">Ruby Algo(Jean)</a></td>
 <td>Ruby Algo(Justin)</td>
@@ -352,7 +352,7 @@
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/idiomatic-ruby">Idiomatic Ruby (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rspec">RSpec(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
