@@ -9,7 +9,7 @@
 - [study and practice regular expressions](https://github.com/SF-WDI-LABS/ruby-regular-expressions)
 
 ## Day 3
-- [https://github.com/SF-WDI-LABS/username-generator](username generator)
+- [username generator](https://github.com/SF-WDI-LABS/username-generator)
 
 ## Day 4
 - 
