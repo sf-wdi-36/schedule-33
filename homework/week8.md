@@ -5,10 +5,11 @@
 - finish Ruby Koans
 
 ## Day 2
-- [finish Ruby Method Drills](https://github.com/SF-WDI-LABS/ruby-method-drills)
+- finish method drills and roman numeral exercises
+- [study and practice regular expressions](https://github.com/SF-WDI-LABS/ruby-regular-expressions)
 
 ## Day 3
-- Review and practice Ruby OOP
+- [https://github.com/SF-WDI-LABS/username-generator](username generator)
 
 ## Day 4
 - 
