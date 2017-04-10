@@ -15,7 +15,7 @@
 
 ## Day 5
 - Finish Wheel of Fortune
-- Fish Go Fish
+- Finish Go Fish
 
 
 
