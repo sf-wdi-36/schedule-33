@@ -345,7 +345,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/intro-ruby">Ruby Intro(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Methods Drills (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP(Justin)</a></td>
+<td>Algorithm</td>
 <td><a href="https://github.com/SF-WDI-LABS/rubyMerge">Ruby Algo(Jean)</a></td>
 <td>Ruby Algo(Justin)</td>
 </tr>
