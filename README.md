@@ -372,7 +372,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/car-racing-lab">Ruby OOP cars</a></td>
 <td><a href="https://github.com/sf-wdi-labs/go-fish-card-game">Go Fish :tropical_fish:</a></td>
-<td><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
+<td><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
