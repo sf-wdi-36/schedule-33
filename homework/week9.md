@@ -2,16 +2,23 @@
 # Week 9 Homework
 
 ##Day 1
-- [finish Library App sprint 1](https://github.com/sf-wdi-33/public_library_app)
-- Challenge (Optional): add validations & error handling to your Rails Project 1 rework
+- [read about active record](http://guides.rubyonrails.org/active_record_basics.html)
 
 ##Day 2
 
+- finish Rock n' Rails
 
 ##Day 3
+
+- complete Pet Lab
 
 
 ##Day 4
 
+- finish/study Rails Auth
+
 
 ##Day 5
+
+- finish Library App sprint 1
+- finish/repeat Bog App
