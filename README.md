@@ -274,7 +274,7 @@
 </tbody></table>
 
 
-#### Week 8 - Rails
+#### Week 9 - Rails
 <table><thead>
 <tr>
 <th>Time</th>
@@ -287,47 +287,48 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
-(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/cookies-sessions">Cookies and Sessions</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/bubble_sort_ruby">Ruby Bubble Sort(Emily)</a></td>
+<td>Algo (Jean)</td>
+<td><a href="https://github.com/sf-wdi-labs/cookies-sessions">Cookies and Sessions(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs">Algo || Review</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-migrations-and-associations">Migrations(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
-(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-migrations-and-associations">Migrations(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
+(Nathan)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a></td>
-<td><a href="https://github.com/sf-wdi-labs/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 1</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-associations">Associations(Jean)</a></td>
-<td></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-labs/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
+(Nathan)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/rails-auth">Rails Auth(Nathan)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 1</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rock-n-rails">Rock n' Rails</a></td>
-<td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Andrew)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Emily)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-labs/rails_bog_app">Bog App</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week9.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week9.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week9.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week9.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week9.md">Homework</a></td>
 </tr>
 </tbody></table>
+
 -->
 
 #### Week 8 - Ruby 
