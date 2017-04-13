@@ -317,7 +317,7 @@
 <td><a href="https://github.com/sf-wdi-labs/rock-n-rails">Rock n' Rails</a></td>
 <td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Emily)</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-labs/rails_bog_app">Bog App</a></td>
+<td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 2</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
@@ -331,7 +331,7 @@
 
 -->
 
-#### Week 8 - Ruby 
+#### Week 8 - Ruby
 <table><thead>
 <tr>
 <th>Time</th>

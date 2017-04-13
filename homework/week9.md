@@ -20,5 +20,4 @@
 
 ## Day 5
 
-- finish Library App sprint 1
-- finish/repeat Bog App
+- finish Library App
