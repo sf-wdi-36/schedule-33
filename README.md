@@ -289,7 +289,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/bubble_sort_ruby">Ruby Bubble Sort(Emily)</a></td>
-<td>Algo (Jean)</td>
+<td>Adding binary numbers (Jean)</td>
 <td><a href="https://github.com/sf-wdi-labs/cookies-sessions">Cookies and Sessions(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs">Algo || Review</a></td>
 </tr>
