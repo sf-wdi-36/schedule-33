@@ -305,7 +305,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/active-record">HAcktive Record(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-associations">Associations(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
 (Nathan)</a></td>
@@ -314,7 +314,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/hacktive_record">HAcktive Record Lab</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rock-n-rails">Rock n' Rails</a></td>
 <td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Emily) :dog:</a></td>
 <td>Outcomes (Neda)</td>
