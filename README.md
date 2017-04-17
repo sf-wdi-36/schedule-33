@@ -300,7 +300,7 @@
 <td><a href="https://github.com/sf-wdi-labs/rails-migrations-and-associations">Migrations(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
 (Nathan)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a></td>
+<td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab :cookie:</a></td>
 <td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 1</a></td>
 </tr>
 <tr>
