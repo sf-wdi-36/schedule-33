@@ -273,6 +273,7 @@
 </tr>
 </tbody></table>
 
+-->
 
 #### Week 9 - Rails
 <table><thead>
@@ -329,7 +330,6 @@
 </tr>
 </tbody></table>
 
--->
 
 #### Week 8 - Ruby
 <table><thead>
