@@ -275,7 +275,7 @@
 
 -->
 
-#### Week 9 - Rails
+#### Week 9 - Rails :train:
 <table><thead>
 <tr>
 <th>Time</th>
