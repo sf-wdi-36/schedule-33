@@ -297,7 +297,7 @@
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-migrations-and-associations">Migrations(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/migrations">Migrations(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
 (Nathan)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab :cookie:</a></td>
