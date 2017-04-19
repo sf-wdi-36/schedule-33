@@ -316,7 +316,7 @@
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/active-record">HAcktive Record</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rock-n-rails">Rock n' Rails</a></td>
-<td><a href="https://github.com/sf-wdi-labs/pet-lab">Rails Pet Lab(Emily) :dog:</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Rails Pet Lab(Emily) :dog:</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 2</a></td>
 </tr>
