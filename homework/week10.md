@@ -1,15 +1,18 @@
 # Week 10 Homework
 
 ##Day 1
-- [Vagabond work](https://github.com/sf-wdi-33/project-vagabond) 
+- Finish Asset pipeline lab
 
 ##Day 2
-- [Vagabond work](https://github.com/sf-wdi-33/project-vagabond) 
+- Project 2
 
-##Day 3  
+##Day 3 
+- Project 2 
 
 ##Day 4
+- Project 2
 
 
 ##Day 5
+- Project 2
 

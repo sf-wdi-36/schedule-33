@@ -20,4 +20,6 @@
 
 ## Day 5
 
-- finish Library App
+
+- finish Library App if not done
+- [Bog App on Repeat!](https://github.com/SF-WDI-LABS/rails_bog_app)
