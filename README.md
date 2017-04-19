@@ -298,7 +298,7 @@
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-intro"> Intro Rails(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/migrations">Migrations(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
+<td><a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">View Helper Methods
 (Nathan)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab :cookie:</a></td>
 <td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 1</a></td>
@@ -307,7 +307,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/active-record">HAcktive Record(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-associations">Associations(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-view-partials-and-helpers">Partials and Helpers
+<td><a href="https://github.com/SF-WDI-LABS/rails-views-partials-helpers-lab">View Helpers & Partials Lab
 (Nathan)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/rails-auth">Rails Auth(Nathan)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/public_library_app">Library App sprint 1</a></td>
