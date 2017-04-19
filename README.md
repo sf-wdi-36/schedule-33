@@ -239,7 +239,7 @@
 <td><a href="https://github.com/sf-wdi-labs/bubble_sort_ruby">Ruby Sort(Emily)</a></td>
 <td>Adding binary numbers (Jean)</td>
 <td><a href="https://github.com/sf-wdi-labs/cookies-sessions">Cookies and Sessions(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-labs">Algo || Review</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/reverse-linked-list">Algo</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
