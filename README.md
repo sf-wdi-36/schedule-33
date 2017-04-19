@@ -182,7 +182,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/depth-first-search">DFS Algo(Jean)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/breadth-first-search">BFS Algo(Jean)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/reverse-linked-list">Linked List Cycle(Emily)</a></td>
+<td>Linked List Cycle(Emily)</td>
 <td>Algo TBD</td>
 <td>Algo TBD</td>
 </tr>
