@@ -15,7 +15,7 @@
 
 ## Day 4
 
-- finish/study Rails Auth
+- study Rails Auth and finish any incomplete labwork
 
 
 ## Day 5
