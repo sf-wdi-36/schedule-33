@@ -223,6 +223,7 @@
 -->
 
 #### Week 9 - Rails
+
 <table><thead>
 <tr>
 <th>Time</th>
