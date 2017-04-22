@@ -167,6 +167,7 @@
 
 
 
+
 #### Week 10 - Rails && Project 2
 <table><thead>
 <tr>
@@ -189,8 +190,8 @@
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-36/rails-validations-and-error-handling">Validation && Error Handling</a></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-asset-pipeline">Asset Pipeline</a></td>
-<td><a href="https://github.com/sf-wdi-36/public_library_app">Library App sprint 2</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-02">Project 2 organization</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 </tr>
@@ -219,7 +220,6 @@
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Project 2</a></td>
 </tr>
 </tbody></table>
-
 -->
 
 #### Week 9 - Rails
