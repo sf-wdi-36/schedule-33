@@ -165,7 +165,7 @@
 </tr>
 </tbody></table>
 
-
+-->
 
 
 #### Week 10 - Rails && Project 2
@@ -181,15 +181,15 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/depth-first-search">DFS Algo(Jean)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/breadth-first-search">BFS Algo(Jean)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
+<td><a href="https://github.com/sf-wdi-36/rails-validations-and-error-handling">Validation && Error Handling</a></td>
 <td>Linked List Cycle(Emily)</td>
 <td>Algo TBD</td>
 <td>Algo TBD</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-36/rails-validations-and-error-handling">Validation && Error Handling</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2 organization</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
@@ -213,14 +213,14 @@
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Asset Pipeline Poem</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Asset Pipeline Poem/Redo Bog App</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week10.md">Project 2</a></td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 9 - Rails
 
