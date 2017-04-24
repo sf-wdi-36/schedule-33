@@ -199,7 +199,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
 <td>Mystery Activity :eyes:</td>
-<td><a href="https://github.com/sf-wdi-36/project-02">UXDI Feedback Session</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 </tr>
