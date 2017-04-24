@@ -181,7 +181,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/turbolinks_challenge">Rails w/ JS Turbolinks lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/rails-validations-and-error-handling">Validation && Error Handling</a></td>
 <td>Linked List Cycle(Emily)</td>
 <td>Algo TBD</td>
@@ -189,7 +189,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Asset Pipeline</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2 organization</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
@@ -197,7 +197,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/turbolinks_challenge">Rails w/ JS Turbolinks lab</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
 <td>Mystery Activity :eyes:</td>
 <td><a href="https://github.com/sf-wdi-36/project-02">UXDI Feedback Session</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
@@ -205,7 +205,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Asset Pipeline</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2 organization</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
