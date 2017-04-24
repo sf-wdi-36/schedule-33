@@ -182,7 +182,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a></td>
-<td><a href="https://github.com/sf-wdi-36/rails-validations-and-error-handling">Validation && Error Handling</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/rails-validations-and-error-handling">Validation && Error Handling</a></td>
 <td>Linked List Cycle(Emily)</td>
 <td>Algo TBD</td>
 <td>Algo TBD</td>
