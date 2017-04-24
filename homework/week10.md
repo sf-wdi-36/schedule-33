@@ -1,18 +1,19 @@
 # Week 10 Homework
 
-##Day 1
+## Day 1
+-Redo Bog App
 - Finish Asset pipeline lab
 
-##Day 2
+## Day 2
 - Project 2
 
-##Day 3 
+## Day 3 
 - Project 2 
 
-##Day 4
+## Day 4
 - Project 2
 
 
-##Day 5
+## Day 5
 - Project 2
 
