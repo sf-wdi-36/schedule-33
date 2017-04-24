@@ -205,7 +205,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/rails-asset-pipeline">Asset Pipeline</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Asset Pipeline</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2 organization</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
