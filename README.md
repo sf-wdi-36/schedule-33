@@ -184,7 +184,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/turbolinks_challenge">Rails w/ JS Turbolinks lab</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/rails-validations-and-error-handling">Validation && Error Handling</a></td>
 <td>Linked List Cycle(Emily)</td>
-<td>Algo TBD</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/distanceBetweenCircles">Algo :o:</a></td>
 <td>Algo TBD</td>
 </tr>
 <tr>
