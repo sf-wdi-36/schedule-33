@@ -124,48 +124,49 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36/ruby-algorithms-drills/tree/master/max-contig-subarray">Ruby Algorithm(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-36/js-dictionary-trie">Dictionary Trees(Justin</a>
+<td>Algorithm</td>
+<td>Project 2 Presentations
 </td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td>Project 2 Presentations</td>
+<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Presentations</a></td>
+<td>Algo</td>
+<td>Algo</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td>Project 2 Presentations</td>
+<td>Project 2 Presentations
+</td>
+<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Presentations</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td>Project 2 Presentations/Lightening talks intro</td>
+<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Intro</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3 intro</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href=https://github.com/sf-wdi-36/ruby-lightning-talks>Lightening Talks intro</a></td>
+<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks work/feedback</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3 approvals</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
 <td><a href=https://github.com/sf-wdi-36/ruby-lightning-talks>Lightening Talks</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 </tbody></table>
-
 -->
+
 
 
 #### Week 10 - Rails && Project 2
