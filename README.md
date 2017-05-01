@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-36/project-02">Project 2</a></td>
+<td>UXDI feedback session 2pm room 8</td>
 <td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Intro</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3 intro</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
