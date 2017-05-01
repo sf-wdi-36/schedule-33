@@ -110,7 +110,7 @@
 </tr>
 </tbody></table>
 
-
+-->
 #### Week 11 - Project 2
 <table><thead>
 <tr>
@@ -124,11 +124,11 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>Algorithm</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/largest-square-in-circle">Algo(Jean)</a></td>
 <td>Project 2 Presentations
 </td>
 <td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Presentations</a></td>
-<td>Algo</td>
+<td>Algo(Ben)</td>
 <td>Algo</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 </tbody></table>
--->
+
 
 
 
