@@ -18,9 +18,9 @@ Tuesday May 9
 
 Wednesday May 10
 
-* ****: with Cory 10:30 - 11 Blanc
-* ****: with Cory 11 - 11:30 Blanc
-* ****: with Cory 11:30 - 12 Blanc
-* ****: with Ben 2 - 2:30 Blanc
+* ****: with Cory 10:30 - 11 Adams
+* ****: with Cory 11 - 11:30 Adams
+* ****: with Cory 11:30 - 12 Adams
+* ****: with Ben 2 - 2:30 Guaraldi
 
 
