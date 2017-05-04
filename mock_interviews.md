@@ -2,25 +2,25 @@
 
 Monday May 8
 
-* ****: with Jane 12:30 - 1 Guaraldi
-* ****: with Pete 12:30 - 1 Adams
-* ****: with Jane 1-1:30 Guaraldi
-* ****: with Pete 1-1:30 Adams
+* **Chris**: with Jane 12:30 - 1 Guaraldi
+* **Shaya**: with Pete 12:30 - 1 Adams
+* **Ali**: with Jane 1-1:30 Guaraldi
+* **Gabriela**: with Pete 1-1:30 Adams
 
 Tuesday May 9
 
-* ****: with Brianna 11 - 11:30 Blanc
-* ****: with Brianna 11:30 - 12 Blanc
-* ****: with Brianna 12 - 12:30 Blanc
-* ****: with Ben 2 - 2:30 Blanc
-* ****: with Ben 2:30 - 3 Blanc
+* **Roman**: with Brianna 11 - 11:30 Blanc
+* **Megan**: with Brianna 11:30 - 12 Blanc
+* **Jesse**: with Brianna 12 - 12:30 Blanc
+* **Lamar**: with Ben 2 - 2:30 Blanc
+* **Archy**: with Ben 2:30 - 3 Blanc
 
 
 Wednesday May 10
 
-* ****: with Cory 10:30 - 11 Adams
-* ****: with Cory 11 - 11:30 Adams
-* ****: with Cory 11:30 - 12 Adams
-* ****: with Ben 2 - 2:30 Guaraldi
+* **Ashley**: with Cory 10:30 - 11 Adams
+* **Chelsea**: with Cory 11 - 11:30 Adams
+* **Carl**: with Cory 11:30 - 12 Adams
+* **Kashif**: with Ben 2 - 2:30 Guaraldi
 
 
