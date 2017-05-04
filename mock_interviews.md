@@ -12,8 +12,8 @@ Tuesday May 9
 * **Roman**: with Brianna 11 - 11:30 Blanc
 * **Megan**: with Brianna 11:30 - 12 Blanc
 * **Jesse**: with Brianna 12 - 12:30 Blanc
-* **Lamar**: with Ben 2 - 2:30 Blanc
-* **Archy**: with Ben 2:30 - 3 Blanc
+* **Lamar**: with Ben 2 - 2:30 Adams
+* **Archy**: with Ben 2:30 - 3 Adams
 
 
 Wednesday May 10
