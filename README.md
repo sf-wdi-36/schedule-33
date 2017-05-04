@@ -65,7 +65,7 @@
 <th>Day 2</th>
 <th>Day 3</th>
 <th>Day 4</th>
-<th>Day  5</th>
+<th>Day 5</th>
 </tr>
 </thead><tbody>
 <tr>
@@ -128,7 +128,7 @@
 <td>Project 2 Presentations
 </td>
 <td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Presentations</a></td>
-<td>Algo(Ben)</td>
+<td><a href="https://github.com/SF-WDI-LABS/depth-first-search">Algo(Ben)</a></td>
 <td>Algo</td>
 </tr>
 <tr>
