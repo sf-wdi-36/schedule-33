@@ -4,8 +4,8 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-36/schedule-36/blob/master/how-tos/WDI%2036%20orientation.pdf)
 
-<!--
-#### Week 13 - Project 3
+
+#### Week 12 - Project 3
 <table><thead>
 <tr>
 <th>Time</th>
@@ -18,11 +18,11 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-36/hash-map-lab">Hash Tables (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td>Algorithm</td>
+<td>Algorithm</td>
+<td>Algorithm</td>
 <td>Project 3 Presentations</td>
-<td>Graduation/Peer Feedback</td>
+<td>Graduation/Feedback</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
@@ -30,7 +30,7 @@
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td>Project 3 Presentations</td>
-<td>Graduation/Peer Feedback</td>
+<td>Graduation/Feedback</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -38,15 +38,15 @@
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td>Project 3 Presentations</td>
-<td>Outcomes (Neda)</td>
+<td>Graduation/Feedback</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td>Project 3 Presentations</td>
-<td>Graduation/Peer Feedback</td>
+<td>Outcomes (Neda)</td>
+<td>Graduation/Feedback</td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
@@ -57,60 +57,6 @@
 </tbody></table>
 
 
-#### Week 12 - Project 3
-<table><thead>
-<tr>
-<th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day 5</th>
-</tr>
-</thead><tbody>
-<tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightening talks</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3 Approvals/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36">Optional: React with Rails(Andrew)</a></td>
-<td><a href="https://github.com/sf-wdi-36/es6">Optional: ES6(Jean)</a></td>
-</tr>
-<tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightening talks</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock interviews</a></td>
-</tr>
-<tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3 Intro</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-</tr>
-<tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3 Pitches/Approvals</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3/Mock Interviews</a></td>
-</tr>
-<tr>
-<td><strong>Training / Office Hours</strong></td>
-<td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-</tr>
-</tbody></table>
-
--->
 #### Week 11 - Project 2
 <table><thead>
 <tr>
