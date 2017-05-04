@@ -129,7 +129,7 @@
 </td>
 <td><a href="https://github.com/sf-wdi-36/ruby-lightning-talks">Lightning Talks Presentations</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/depth-first-search">Algo(Ben)</a></td>
-<td>Algo</td>
+<td><a href="https://github.com/SF-WDI-LABS/breadth-first-search">Algo</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
