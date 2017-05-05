@@ -18,7 +18,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>Algorithm</td>
+<td><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/cats-in-hats" >Algorithm :cat:</a></td>
 <td>Algorithm</td>
 <td>Algorithm</td>
 <td>Project 3 Presentations</td>
