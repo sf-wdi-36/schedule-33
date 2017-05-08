@@ -2,7 +2,7 @@
 
 Monday May 8
 
-* **Chris**: with Jane 12:30 - 1 Guaraldi
+* **Megan**: with Jane 12:30 - 1 Guaraldi
 * **Shaya**: with Pete 12:30 - 1 Adams
 * **Ali**: with Jane 1-1:30 Guaraldi
 * **Gabriela**: with Pete 1-1:30 Adams
@@ -10,7 +10,7 @@ Monday May 8
 Tuesday May 9
 
 * **Roman**: with Brianna 11 - 11:30 Blanc
-* **Megan**: with Brianna 11:30 - 12 Blanc
+* **Chris**: with Brianna 11:30 - 12 Blanc
 * **Jesse**: with Brianna 12 - 12:30 Blanc
 * **Lamar**: with Ben 2 - 2:30 Adams
 * **Archy**: with Ben 2:30 - 3 Adams
