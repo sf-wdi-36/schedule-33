@@ -38,14 +38,15 @@
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td>Project 3 Presentations</td>
-<td>Graduation/Feedback</td>
+<td>Outcomes (Neda)</td>
+
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td>Outcomes (Neda)</td>
+<td>Graduation/Feedback</td>
 <td>Graduation/Feedback</td>
 </tr>
 <tr>
