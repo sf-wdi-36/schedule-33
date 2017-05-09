@@ -21,6 +21,6 @@ Wednesday May 10
 * **Chelsea**: with Cory 11 - 11:30 Adams
 * **Carl**: with Cory 11:30 - 12 Adams
 * **Archy**: with Ben 2 - 2:30 Guaraldi
-* **Lamar**: with Ben 2 - 2:30 Adams
+* **Lamar**: with Ben 2:30 - 3 Adams
 
 
