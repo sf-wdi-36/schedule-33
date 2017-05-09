@@ -13,7 +13,7 @@ Tuesday May 9
 * **Chris**: with Brianna 11:30 - 12 Blanc
 * **Jesse**: with Brianna 12 - 12:30 Blanc
 * **Lamar**: with Ben 2 - 2:30 Adams
-* **Archy**: with Ben 2:30 - 3 Adams
+* **Kashif**: with Ben 2:30 - 3 Adams
 
 
 Wednesday May 10
@@ -21,6 +21,6 @@ Wednesday May 10
 * **Ashley**: with Cory 10:30 - 11 Adams
 * **Chelsea**: with Cory 11 - 11:30 Adams
 * **Carl**: with Cory 11:30 - 12 Adams
-* **Kashif**: with Ben 2 - 2:30 Guaraldi
+* **Archy**: with Ben 2 - 2:30 Guaraldi
 
 
