@@ -17,9 +17,9 @@ Tuesday May 9
 
 Wednesday May 10
 
-* **Ashley**: with Cory 10:30 - 11 Adams
-* **Chelsea**: with Cory 11 - 11:30 Adams
-* **Carl**: with Cory 11:30 - 12 Adams
+* **Ashley**: with Cory 10:30 - 11 Library
+* **Chelsea**: with Cory 11 - 11:30 Library
+* **Carl**: with Cory 11:30 - 12 Library
 * **Archy**: with Ben 2 - 2:30 Guaraldi
 * **Lamar**: with Ben 2:30 - 3 Guaraldi
 
